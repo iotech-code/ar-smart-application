@@ -1,2 +1,2 @@
-# ar-smart-application
+# AR Smart Application.
 AR Smart Mobile Application.
